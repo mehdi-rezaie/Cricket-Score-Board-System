@@ -1,0 +1,293 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>
+    </ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{423C7E2F-5ABF-4E42-838B-47D4A9B60C0D}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <StartupObject>Cricket_Scoreboard_System.My.MyApplication</StartupObject>
+    <RootNamespace>Cricket_Scoreboard_System</RootNamespace>
+    <AssemblyName>Cricket Scoreboard System</AssemblyName>
+    <FileAlignment>512</FileAlignment>
+    <MyType>WindowsForms</MyType>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <TargetFrameworkProfile>Client</TargetFrameworkProfile>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DocumentationFile>Cricket Scoreboard System.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DocumentationFile>Cricket Scoreboard System.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionExplicit>On</OptionExplicit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionCompare>Binary</OptionCompare>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionStrict>Off</OptionStrict>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionInfer>On</OptionInfer>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>cricket.ico</ApplicationIcon>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Collections.Generic" />
+    <Import Include="System.Data" />
+    <Import Include="System.Drawing" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.Windows.Forms" />
+    <Import Include="System.Linq" />
+    <Import Include="System.Xml.Linq" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="dialogTeamSelect.Designer.vb">
+      <DependentUpon>dialogTeamSelect.vb</DependentUpon>
+    </Compile>
+    <Compile Include="dialogTeamSelect.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="dialogTossSelect.Designer.vb">
+      <DependentUpon>dialogTossSelect.vb</DependentUpon>
+    </Compile>
+    <Compile Include="dialogTossSelect.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="pointspanelEdit.Designer.vb">
+      <DependentUpon>pointspanelEdit.vb</DependentUpon>
+    </Compile>
+    <Compile Include="pointspanelEdit.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Splash &amp; MDI\frmCSSMDI.Designer.vb">
+      <DependentUpon>frmCSSMDI.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Splash &amp; MDI\frmCSSMDI.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Login\frmChangePwd.Designer.vb">
+      <DependentUpon>frmChangePwd.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Login\frmChangePwd.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Login\frmLogin.Designer.vb">
+      <DependentUpon>frmLogin.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Login\frmLogin.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmPlayer_Add.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmPlayer_Add.Designer.vb">
+      <DependentUpon>frmPlayer_Add.vb</DependentUpon>
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Login\frmRegisterNewUser.Designer.vb">
+      <DependentUpon>frmRegisterNewUser.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Login\frmRegisterNewUser.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmScoreControlPanel.Designer.vb">
+      <DependentUpon>frmScoreControlPanel.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmScoreControlPanel.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmSelectWinnerTeam.Designer.vb">
+      <DependentUpon>frmSelectWinnerTeam.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmSelectWinnerTeam.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmTeam_Add.Designer.vb">
+      <DependentUpon>frmTeam_Add.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmTeam_Add.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Generic Module\GenericFunctMod.vb" />
+    <Compile Include="My Project\AssemblyInfo.vb" />
+    <Compile Include="My Project\Application.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Application.myapp</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Resources.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Settings.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <Compile Include="pointspanel.designer.vb">
+      <DependentUpon>pointspanel.vb</DependentUpon>
+    </Compile>
+    <Compile Include="pointspanel.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="scoreDisplayPanel.Designer.vb">
+      <DependentUpon>scoreDisplayPanel.vb</DependentUpon>
+    </Compile>
+    <Compile Include="scoreDisplayPanel.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Splash &amp; MDI\SplashCSS.Designer.vb">
+      <DependentUpon>SplashCSS.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Splash &amp; MDI\SplashCSS.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Splash Runs\splashFourRuns.Designer.vb">
+      <DependentUpon>splashFourRuns.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Splash Runs\splashFourRuns.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Splash Runs\splashNotOut.Designer.vb">
+      <DependentUpon>splashNotOut.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Splash Runs\splashNotOut.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Splash Runs\splashOut.Designer.vb">
+      <DependentUpon>splashOut.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Splash Runs\splashOut.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Splash Runs\splashSixRuns.Designer.vb">
+      <DependentUpon>splashSixRuns.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Splash Runs\splashSixRuns.vb">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="dialogTeamSelect.resx">
+      <DependentUpon>dialogTeamSelect.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="dialogTossSelect.resx">
+      <DependentUpon>dialogTossSelect.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="pointspanelEdit.resx">
+      <DependentUpon>pointspanelEdit.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Splash &amp; MDI\frmCSSMDI.resx">
+      <DependentUpon>frmCSSMDI.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Login\frmChangePwd.resx">
+      <DependentUpon>frmChangePwd.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Login\frmLogin.resx">
+      <DependentUpon>frmLogin.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmPlayer_Add.resx">
+      <DependentUpon>frmPlayer_Add.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Login\frmRegisterNewUser.resx">
+      <DependentUpon>frmRegisterNewUser.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmScoreControlPanel.resx">
+      <DependentUpon>frmScoreControlPanel.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmSelectWinnerTeam.resx">
+      <DependentUpon>frmSelectWinnerTeam.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmTeam_Add.resx">
+      <DependentUpon>frmTeam_Add.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="My Project\Resources.resx">
+      <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="pointspanel.resx">
+      <DependentUpon>pointspanel.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="scoreDisplayPanel.resx">
+      <DependentUpon>scoreDisplayPanel.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Splash &amp; MDI\SplashCSS.resx">
+      <DependentUpon>SplashCSS.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Splash Runs\splashFourRuns.resx">
+      <DependentUpon>splashFourRuns.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Splash Runs\splashNotOut.resx">
+      <DependentUpon>splashNotOut.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Splash Runs\splashOut.resx">
+      <DependentUpon>splashOut.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Splash Runs\splashSixRuns.resx">
+      <DependentUpon>splashSixRuns.vb</DependentUpon>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="My Project\Application.myapp">
+      <Generator>MyApplicationCodeGenerator</Generator>
+      <LastGenOutput>Application.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="My Project\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <CustomToolNamespace>My</CustomToolNamespace>
+      <LastGenOutput>Settings.Designer.vb</LastGenOutput>
+    </None>
+  </ItemGroup>
+  <ItemGroup />
+  <ItemGroup>
+    <Content Include="cricket.ico" />
+    <Content Include="Images\4_splash.jpg" />
+    <Content Include="Images\6_splash.jpg" />
+    <Content Include="Images\splashNotOut.png" />
+    <Content Include="Images\splashOut.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

@@ -1,0 +1,105 @@
+C:\Users\Mehdi\Desktop\Cricket Scoreboard System\Cricket Scoreboard System\bin\Debug\Cricket Scoreboard System.exe
+C:\Users\Mehdi\Desktop\Cricket Scoreboard System\Cricket Scoreboard System\bin\Debug\Cricket Scoreboard System.pdb
+C:\Users\Mehdi\Desktop\Cricket Scoreboard System\Cricket Scoreboard System\bin\Debug\Cricket Scoreboard System.xml
+C:\Users\Mehdi\Desktop\Cricket Scoreboard System\Cricket Scoreboard System\obj\x86\Debug\Cricket_Scoreboard_System.frmPlayer_Add.resources
+C:\Users\Mehdi\Desktop\Cricket Scoreboard System\Cricket Scoreboard System\obj\x86\Debug\Cricket_Scoreboard_System.Resources.resources
+C:\Users\Mehdi\Desktop\Cricket Scoreboard System\Cricket Scoreboard System\obj\x86\Debug\Cricket Scoreboard System.vbproj.GenerateResource.Cache
+C:\Users\Mehdi\Desktop\Cricket Scoreboard System\Cricket Scoreboard System\obj\x86\Debug\Cricket Scoreboard System.exe
+C:\Users\Mehdi\Desktop\Cricket Scoreboard System\Cricket Scoreboard System\obj\x86\Debug\Cricket Scoreboard System.xml
+C:\Users\Mehdi\Desktop\Cricket Scoreboard System\Cricket Scoreboard System\obj\x86\Debug\Cricket Scoreboard System.pdb
+C:\Users\Mehdi\Desktop\TDSCorp\Projects\Desktop based projects\Cricket Scoreboard System\Cricket Scoreboard System\obj\x86\Debug\Cricket Scoreboard System.exe
+C:\Users\Mehdi\Desktop\TDSCorp\Projects\Desktop based projects\Cricket Scoreboard System\Cricket Scoreboard System\obj\x86\Debug\Cricket Scoreboard System.xml
+C:\Users\Mehdi\Desktop\TDSCorp\Projects\Desktop based projects\Cricket Scoreboard System\Cricket Scoreboard System\obj\x86\Debug\Cricket Scoreboard System.pdb
+C:\Users\Mehdi\Desktop\TDSCorp\Projects\Desktop based projects\Cricket Scoreboard System\Cricket Scoreboard System\bin\Debug\Cricket Scoreboard System.exe
+C:\Users\Mehdi\Desktop\TDSCorp\Projects\Desktop based projects\Cricket Scoreboard System\Cricket Scoreboard System\bin\Debug\Cricket Scoreboard System.pdb
+C:\Users\Mehdi\Desktop\TDSCorp\Projects\Desktop based projects\Cricket Scoreboard System\Cricket Scoreboard System\bin\Debug\Cricket Scoreboard System.xml
+C:\Users\Mehdi\Desktop\TDSCorp\Projects\Desktop based projects\Cricket Scoreboard System\Cricket Scoreboard System\obj\x86\Debug\Cricket_Scoreboard_System.frmPlayer_Add.resources
+C:\Users\Mehdi\Desktop\TDSCorp\Projects\Desktop based projects\Cricket Scoreboard System\Cricket Scoreboard System\obj\x86\Debug\Cricket_Scoreboard_System.Resources.resources
+C:\Users\Mehdi\Desktop\TDSCorp\Projects\Desktop based projects\Cricket Scoreboard System\Cricket Scoreboard System\obj\x86\Debug\Cricket Scoreboard System.vbproj.GenerateResource.Cache
+C:\Users\Mehdi\Desktop\TDSCorp\Projects\Desktop based projects\Cricket Scoreboard System\Cricket Scoreboard System\obj\x86\Debug\Cricket_Scoreboard_System.scoreDisplayPanel.resources
+C:\Users\Mehdi\Desktop\TDSCorp\Projects\Desktop based projects\Cricket Scoreboard System\Cricket Scoreboard System\obj\x86\Debug\Cricket_Scoreboard_System.frmTeam_Add.resources
+C:\Users\Nizam Qureshi\Desktop\Desktop based projects\Cricket Scoreboard System\Cricket Scoreboard System\obj\x86\Debug\Cricket Scoreboard System.exe
+C:\Users\Nizam Qureshi\Desktop\Desktop based projects\Cricket Scoreboard System\Cricket Scoreboard System\obj\x86\Debug\Cricket Scoreboard System.xml
+C:\Users\Nizam Qureshi\Desktop\Desktop based projects\Cricket Scoreboard System\Cricket Scoreboard System\obj\x86\Debug\Cricket Scoreboard System.pdb
+C:\Users\Nizam Qureshi\Desktop\Desktop based projects\Cricket Scoreboard System\Cricket Scoreboard System\bin\Debug\Cricket Scoreboard System.exe
+C:\Users\Nizam Qureshi\Desktop\Desktop based projects\Cricket Scoreboard System\Cricket Scoreboard System\bin\Debug\Cricket Scoreboard System.pdb
+C:\Users\Nizam Qureshi\Desktop\Desktop based projects\Cricket Scoreboard System\Cricket Scoreboard System\bin\Debug\Cricket Scoreboard System.xml
+C:\Users\Nizam Qureshi\Desktop\Desktop based projects\Cricket Scoreboard System\Cricket Scoreboard System\obj\x86\Debug\Cricket_Scoreboard_System.frmPlayer_Add.resources
+C:\Users\Nizam Qureshi\Desktop\Desktop based projects\Cricket Scoreboard System\Cricket Scoreboard System\obj\x86\Debug\Cricket_Scoreboard_System.frmTeam_Add.resources
+C:\Users\Nizam Qureshi\Desktop\Desktop based projects\Cricket Scoreboard System\Cricket Scoreboard System\obj\x86\Debug\Cricket_Scoreboard_System.Resources.resources
+C:\Users\Nizam Qureshi\Desktop\Desktop based projects\Cricket Scoreboard System\Cricket Scoreboard System\obj\x86\Debug\Cricket_Scoreboard_System.scoreDisplayPanel.resources
+C:\Users\Nizam Qureshi\Desktop\Desktop based projects\Cricket Scoreboard System\Cricket Scoreboard System\obj\x86\Debug\Cricket Scoreboard System.vbproj.GenerateResource.Cache
+C:\Users\Mehdi\Desktop\Desktop based projects\Cricket Scoreboard System\Cricket Scoreboard System\obj\x86\Debug\Cricket Scoreboard System.exe
+C:\Users\Mehdi\Desktop\Desktop based projects\Cricket Scoreboard System\Cricket Scoreboard System\obj\x86\Debug\Cricket Scoreboard System.xml
+C:\Users\Mehdi\Desktop\Desktop based projects\Cricket Scoreboard System\Cricket Scoreboard System\obj\x86\Debug\Cricket Scoreboard System.pdb
+C:\Users\Mehdi\Desktop\Desktop based projects\Cricket Scoreboard System\Cricket Scoreboard System\bin\Debug\Cricket Scoreboard System.exe
+C:\Users\Mehdi\Desktop\Desktop based projects\Cricket Scoreboard System\Cricket Scoreboard System\bin\Debug\Cricket Scoreboard System.pdb
+C:\Users\Mehdi\Desktop\Desktop based projects\Cricket Scoreboard System\Cricket Scoreboard System\bin\Debug\Cricket Scoreboard System.xml
+C:\Users\Mehdi\Desktop\Desktop based projects\Cricket Scoreboard System\Cricket Scoreboard System\obj\x86\Debug\Cricket_Scoreboard_System.frmPlayer_Add.resources
+C:\Users\Mehdi\Desktop\Desktop based projects\Cricket Scoreboard System\Cricket Scoreboard System\obj\x86\Debug\Cricket_Scoreboard_System.frmTeam_Add.resources
+C:\Users\Mehdi\Desktop\Desktop based projects\Cricket Scoreboard System\Cricket Scoreboard System\obj\x86\Debug\Cricket_Scoreboard_System.Resources.resources
+C:\Users\Mehdi\Desktop\Desktop based projects\Cricket Scoreboard System\Cricket Scoreboard System\obj\x86\Debug\Cricket_Scoreboard_System.scoreDisplayPanel.resources
+C:\Users\Mehdi\Desktop\Desktop based projects\Cricket Scoreboard System\Cricket Scoreboard System\obj\x86\Debug\Cricket Scoreboard System.vbproj.GenerateResource.Cache
+C:\Users\Mehdi\Desktop\Desktop based projects\Cricket Scoreboard System\Cricket Scoreboard System\obj\x86\Debug\Cricket_Scoreboard_System.frmScoreControlPanel.resources
+C:\Users\Mehdi\Desktop\Desktop based projects\Cricket Scoreboard System\Cricket Scoreboard System\obj\x86\Debug\Cricket_Scoreboard_System.dialogTeamSelect.resources
+C:\Users\Mehdi\Desktop\Desktop based projects\Cricket Scoreboard System\Cricket Scoreboard System\obj\x86\Debug\Cricket_Scoreboard_System.dialogTossSelect.resources
+C:\Users\Mehdi\Desktop\Desktop based projects\Cricket Scoreboard System\Cricket Scoreboard System\obj\x86\Debug\Cricket_Scoreboard_System.pointspanel.resources
+C:\Users\Mehdi\Desktop\Desktop based projects\Cricket Scoreboard System\Cricket Scoreboard System\obj\x86\Debug\Cricket_Scoreboard_System.frmSelectWinnerTeam.resources
+C:\Users\Mehdi\Desktop\Desktop based projects\Cricket Scoreboard System\Cricket Scoreboard System\obj\x86\Debug\Cricket_Scoreboard_System.frmChangePwd.resources
+C:\Users\Mehdi\Desktop\Desktop based projects\Cricket Scoreboard System\Cricket Scoreboard System\obj\x86\Debug\Cricket_Scoreboard_System.frmLogin.resources
+C:\Users\Mehdi\Desktop\Desktop based projects\Cricket Scoreboard System\Cricket Scoreboard System\obj\x86\Debug\Cricket_Scoreboard_System.frmRegisterNewUser.resources
+C:\Users\Mehdi\Desktop\Desktop based projects\Cricket Scoreboard System\Cricket Scoreboard System\obj\x86\Debug\Cricket_Scoreboard_System.SplashCSS.resources
+C:\Users\Mehdi\Desktop\Desktop based projects\Cricket Scoreboard System\Cricket Scoreboard System\obj\x86\Debug\Cricket_Scoreboard_System.frmCSSMDI.resources
+C:\Users\Nizam Qureshi\Desktop\Desktop based projects\Cricket Scoreboard System\Cricket Scoreboard System\obj\x86\Debug\Cricket_Scoreboard_System.dialogTeamSelect.resources
+C:\Users\Nizam Qureshi\Desktop\Desktop based projects\Cricket Scoreboard System\Cricket Scoreboard System\obj\x86\Debug\Cricket_Scoreboard_System.dialogTossSelect.resources
+C:\Users\Nizam Qureshi\Desktop\Desktop based projects\Cricket Scoreboard System\Cricket Scoreboard System\obj\x86\Debug\Cricket_Scoreboard_System.frmCSSMDI.resources
+C:\Users\Nizam Qureshi\Desktop\Desktop based projects\Cricket Scoreboard System\Cricket Scoreboard System\obj\x86\Debug\Cricket_Scoreboard_System.frmChangePwd.resources
+C:\Users\Nizam Qureshi\Desktop\Desktop based projects\Cricket Scoreboard System\Cricket Scoreboard System\obj\x86\Debug\Cricket_Scoreboard_System.frmLogin.resources
+C:\Users\Nizam Qureshi\Desktop\Desktop based projects\Cricket Scoreboard System\Cricket Scoreboard System\obj\x86\Debug\Cricket_Scoreboard_System.frmRegisterNewUser.resources
+C:\Users\Nizam Qureshi\Desktop\Desktop based projects\Cricket Scoreboard System\Cricket Scoreboard System\obj\x86\Debug\Cricket_Scoreboard_System.frmScoreControlPanel.resources
+C:\Users\Nizam Qureshi\Desktop\Desktop based projects\Cricket Scoreboard System\Cricket Scoreboard System\obj\x86\Debug\Cricket_Scoreboard_System.frmSelectWinnerTeam.resources
+C:\Users\Nizam Qureshi\Desktop\Desktop based projects\Cricket Scoreboard System\Cricket Scoreboard System\obj\x86\Debug\Cricket_Scoreboard_System.pointspanel.resources
+C:\Users\Nizam Qureshi\Desktop\Desktop based projects\Cricket Scoreboard System\Cricket Scoreboard System\obj\x86\Debug\Cricket_Scoreboard_System.SplashCSS.resources
+C:\Users\Mehdi\Desktop\Desktop based projects\Desktop based projects\Cricket Scoreboard System\Cricket Scoreboard System\obj\x86\Debug\Cricket Scoreboard System.exe
+C:\Users\Mehdi\Desktop\Desktop based projects\Desktop based projects\Cricket Scoreboard System\Cricket Scoreboard System\obj\x86\Debug\Cricket Scoreboard System.xml
+C:\Users\Mehdi\Desktop\Desktop based projects\Desktop based projects\Cricket Scoreboard System\Cricket Scoreboard System\obj\x86\Debug\Cricket Scoreboard System.pdb
+C:\Users\Mehdi\Desktop\Desktop based projects\Desktop based projects\Cricket Scoreboard System\Cricket Scoreboard System\bin\Debug\Cricket Scoreboard System.exe
+C:\Users\Mehdi\Desktop\Desktop based projects\Desktop based projects\Cricket Scoreboard System\Cricket Scoreboard System\bin\Debug\Cricket Scoreboard System.pdb
+C:\Users\Mehdi\Desktop\Desktop based projects\Desktop based projects\Cricket Scoreboard System\Cricket Scoreboard System\bin\Debug\Cricket Scoreboard System.xml
+C:\Users\Mehdi\Desktop\Desktop based projects\Desktop based projects\Cricket Scoreboard System\Cricket Scoreboard System\obj\x86\Debug\Cricket_Scoreboard_System.dialogTeamSelect.resources
+C:\Users\Mehdi\Desktop\Desktop based projects\Desktop based projects\Cricket Scoreboard System\Cricket Scoreboard System\obj\x86\Debug\Cricket_Scoreboard_System.dialogTossSelect.resources
+C:\Users\Mehdi\Desktop\Desktop based projects\Desktop based projects\Cricket Scoreboard System\Cricket Scoreboard System\obj\x86\Debug\Cricket_Scoreboard_System.frmCSSMDI.resources
+C:\Users\Mehdi\Desktop\Desktop based projects\Desktop based projects\Cricket Scoreboard System\Cricket Scoreboard System\obj\x86\Debug\Cricket_Scoreboard_System.frmChangePwd.resources
+C:\Users\Mehdi\Desktop\Desktop based projects\Desktop based projects\Cricket Scoreboard System\Cricket Scoreboard System\obj\x86\Debug\Cricket_Scoreboard_System.frmLogin.resources
+C:\Users\Mehdi\Desktop\Desktop based projects\Desktop based projects\Cricket Scoreboard System\Cricket Scoreboard System\obj\x86\Debug\Cricket_Scoreboard_System.frmPlayer_Add.resources
+C:\Users\Mehdi\Desktop\Desktop based projects\Desktop based projects\Cricket Scoreboard System\Cricket Scoreboard System\obj\x86\Debug\Cricket_Scoreboard_System.frmRegisterNewUser.resources
+C:\Users\Mehdi\Desktop\Desktop based projects\Desktop based projects\Cricket Scoreboard System\Cricket Scoreboard System\obj\x86\Debug\Cricket_Scoreboard_System.frmScoreControlPanel.resources
+C:\Users\Mehdi\Desktop\Desktop based projects\Desktop based projects\Cricket Scoreboard System\Cricket Scoreboard System\obj\x86\Debug\Cricket_Scoreboard_System.frmSelectWinnerTeam.resources
+C:\Users\Mehdi\Desktop\Desktop based projects\Desktop based projects\Cricket Scoreboard System\Cricket Scoreboard System\obj\x86\Debug\Cricket_Scoreboard_System.frmTeam_Add.resources
+C:\Users\Mehdi\Desktop\Desktop based projects\Desktop based projects\Cricket Scoreboard System\Cricket Scoreboard System\obj\x86\Debug\Cricket_Scoreboard_System.Resources.resources
+C:\Users\Mehdi\Desktop\Desktop based projects\Desktop based projects\Cricket Scoreboard System\Cricket Scoreboard System\obj\x86\Debug\Cricket_Scoreboard_System.pointspanel.resources
+C:\Users\Mehdi\Desktop\Desktop based projects\Desktop based projects\Cricket Scoreboard System\Cricket Scoreboard System\obj\x86\Debug\Cricket_Scoreboard_System.scoreDisplayPanel.resources
+C:\Users\Mehdi\Desktop\Desktop based projects\Desktop based projects\Cricket Scoreboard System\Cricket Scoreboard System\obj\x86\Debug\Cricket_Scoreboard_System.SplashCSS.resources
+C:\Users\Mehdi\Desktop\Desktop based projects\Desktop based projects\Cricket Scoreboard System\Cricket Scoreboard System\obj\x86\Debug\Cricket_Scoreboard_System.splashFourRuns.resources
+C:\Users\Mehdi\Desktop\Desktop based projects\Desktop based projects\Cricket Scoreboard System\Cricket Scoreboard System\obj\x86\Debug\Cricket Scoreboard System.vbproj.GenerateResource.Cache
+C:\Users\Mehdi\Desktop\Desktop based projects\Desktop based projects\Cricket Scoreboard System\Cricket Scoreboard System\obj\x86\Debug\Cricket_Scoreboard_System.splashSixRuns.resources
+C:\Users\Mehdi\Desktop\Desktop based projects\Desktop based projects\Cricket Scoreboard System\Cricket Scoreboard System\obj\x86\Debug\Cricket_Scoreboard_System.splashOut.resources
+C:\Users\Mehdi\Desktop\Desktop based projects\Desktop based projects\Cricket Scoreboard System\Cricket Scoreboard System\obj\x86\Debug\Cricket_Scoreboard_System.splashNotOut.resources
+C:\Users\Mehdi\Desktop\Cricket Scoreboard System\Cricket Scoreboard System\obj\x86\Debug\Cricket_Scoreboard_System.dialogTeamSelect.resources
+C:\Users\Mehdi\Desktop\Cricket Scoreboard System\Cricket Scoreboard System\obj\x86\Debug\Cricket_Scoreboard_System.dialogTossSelect.resources
+C:\Users\Mehdi\Desktop\Cricket Scoreboard System\Cricket Scoreboard System\obj\x86\Debug\Cricket_Scoreboard_System.pointspanelEdit.resources
+C:\Users\Mehdi\Desktop\Cricket Scoreboard System\Cricket Scoreboard System\obj\x86\Debug\Cricket_Scoreboard_System.frmCSSMDI.resources
+C:\Users\Mehdi\Desktop\Cricket Scoreboard System\Cricket Scoreboard System\obj\x86\Debug\Cricket_Scoreboard_System.frmChangePwd.resources
+C:\Users\Mehdi\Desktop\Cricket Scoreboard System\Cricket Scoreboard System\obj\x86\Debug\Cricket_Scoreboard_System.frmLogin.resources
+C:\Users\Mehdi\Desktop\Cricket Scoreboard System\Cricket Scoreboard System\obj\x86\Debug\Cricket_Scoreboard_System.frmRegisterNewUser.resources
+C:\Users\Mehdi\Desktop\Cricket Scoreboard System\Cricket Scoreboard System\obj\x86\Debug\Cricket_Scoreboard_System.frmScoreControlPanel.resources
+C:\Users\Mehdi\Desktop\Cricket Scoreboard System\Cricket Scoreboard System\obj\x86\Debug\Cricket_Scoreboard_System.frmSelectWinnerTeam.resources
+C:\Users\Mehdi\Desktop\Cricket Scoreboard System\Cricket Scoreboard System\obj\x86\Debug\Cricket_Scoreboard_System.frmTeam_Add.resources
+C:\Users\Mehdi\Desktop\Cricket Scoreboard System\Cricket Scoreboard System\obj\x86\Debug\Cricket_Scoreboard_System.pointspanel.resources
+C:\Users\Mehdi\Desktop\Cricket Scoreboard System\Cricket Scoreboard System\obj\x86\Debug\Cricket_Scoreboard_System.scoreDisplayPanel.resources
+C:\Users\Mehdi\Desktop\Cricket Scoreboard System\Cricket Scoreboard System\obj\x86\Debug\Cricket_Scoreboard_System.SplashCSS.resources
+C:\Users\Mehdi\Desktop\Cricket Scoreboard System\Cricket Scoreboard System\obj\x86\Debug\Cricket_Scoreboard_System.splashFourRuns.resources
+C:\Users\Mehdi\Desktop\Cricket Scoreboard System\Cricket Scoreboard System\obj\x86\Debug\Cricket_Scoreboard_System.splashNotOut.resources
+C:\Users\Mehdi\Desktop\Cricket Scoreboard System\Cricket Scoreboard System\obj\x86\Debug\Cricket_Scoreboard_System.splashOut.resources
+C:\Users\Mehdi\Desktop\Cricket Scoreboard System\Cricket Scoreboard System\obj\x86\Debug\Cricket_Scoreboard_System.splashSixRuns.resources
+C:\Users\Mehdi\Desktop\Desktop based projects\Desktop based projects\Cricket Scoreboard System\Cricket Scoreboard System\obj\x86\Debug\Cricket_Scoreboard_System.pointspanelEdit.resources
